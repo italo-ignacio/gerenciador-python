@@ -1,1 +1,2 @@
-# Execute o arquivo Gerenciador.py
+# Execute o arquivo 
+- Gerenciador.py
